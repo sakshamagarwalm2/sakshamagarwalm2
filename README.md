@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 AUTHOR_:
 I'm a versatile AI/ML specialist and MERN stack developer with expertise in developing enterprise-level AI solutions. My work focuses on implementing advanced large language models, building agentic AI systems, and creating scalable web applications with modern architecture. I thrive in collaborative environments where innovation drives technological advancement. Currently pursuing my BTech in Electrical and Computer Engineering while actively contributing to the tech community through open-source projects and freelance development.<br>🔭 I'm currently working on advanced AI implementation with enterprise-scale architecture<br>👯 I'm looking to collaborate on cutting-edge AI/ML research and development projects<br>🙏 I'm looking for help with exploring advanced computational paradigms<br>🌱 I'm currently learning next-generation transformer architectures and agentic AI frameworks<br>💬 Ask me about AI/ML development, MERN stack applications, or innovative tech solutions<br>⚡ Fun fact: I'm deeply passionate about quantum computing and its potential to revolutionize computational capabilities across various fields!
 
 
