@@ -18,6 +18,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="172" src="https://i.pinimg.com/1200x/bf/a3/06/bfa3063d99f77f4c4f125dbdbb781f57.jpg"  />
+</div>
+
+###
+
 <p align="center">I build systems that think, scale, and evolve. My work sits at the intersection of software, product engineering, and intelligent architecture where ideas are not just implemented, but engineered into experiences. I focus on creating solutions that are robust, adaptive, and designed for real-world impact.<br><br>Driven by curiosity and precision, I design full-stack ecosystems, from core logic to user-facing layers ensuring every component works in harmony. Whether it's crafting seamless product flows or architecting complex systems, I aim to deliver clarity through code and purpose through design.</p>
 
 ###
@@ -34,12 +42,8 @@
 
 ###
 
-<img align="left" height="139" src="https://i.pinimg.com/1200x/bf/a3/06/bfa3063d99f77f4c4f125dbdbb781f57.jpg"  />
-
-###
-
 <div align="center">
-  <img src="https://count.getloli.com/@:sakshamagarwalm2?theme=booru-helltaker&padding=5&offset=0&scale=1&align=top&pixelated=0&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:sakshamagarwalm2?theme=booru-helltaker&padding=7&offset=0&scale=1&align=top&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
@@ -183,11 +187,11 @@
 
 ###
 
-<h3 align="left">What I Do...!</h3>
+<h3 align="center">What I Do...!</h3>
 
 ###
 
-<p align="left">⚙️ Design and build scalable software systems<br>🧩 Architect end-to-end product solutions<br>🚀 Develop intelligent, high-performance applications<br>🛠️ Focus on clean architecture, performance & reliability<br>🌐 Build systems that merge logic, experience, and innovation</p>
+<p align="center">⚙️ Design and build scalable software systems<br>🧩 Architect end-to-end product solutions<br>🚀 Develop intelligent, high-performance applications<br>🛠️ Focus on clean architecture, performance & reliability<br>🌐 Build systems that merge logic, experience, innovation</p>
 
 ###
 
