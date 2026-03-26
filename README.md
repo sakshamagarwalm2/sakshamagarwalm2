@@ -169,6 +169,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshamagarwalm2/sakshamagarwalm2/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshamagarwalm2/sakshamagarwalm2/output/pacman-contribution-graph.svg">
@@ -181,7 +183,7 @@
 
 ###
 
-<h1 align="left">What I Do...!</h1>
+<h3 align="left">What I Do...!</h3>
 
 ###
 
