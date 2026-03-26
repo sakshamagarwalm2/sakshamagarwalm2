@@ -34,12 +34,12 @@
 
 ###
 
-<img align="left" height="168" src="https://i.pinimg.com/1200x/bf/a3/06/bfa3063d99f77f4c4f125dbdbb781f57.jpg"  />
+<img align="left" height="139" src="https://i.pinimg.com/1200x/bf/a3/06/bfa3063d99f77f4c4f125dbdbb781f57.jpg"  />
 
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:sakshamagarwalm2?theme=booru-helltaker&padding=5&offset=0&scale=1&align=bottom&pixelated=0&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:sakshamagarwalm2?theme=booru-helltaker&padding=5&offset=0&scale=1&align=top&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
