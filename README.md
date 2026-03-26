@@ -14,11 +14,7 @@
 
 <br clear="both">
 
-<p align="center">Saksham.Agarwal.@AstralLink_</p>
-
-###
-
-<br clear="both">
+<h2 align="center">Saksham.Agarwal.@AstralLink_</h2>
 
 <div align="center">
   <img height="172" src="https://i.pinimg.com/1200x/bf/a3/06/bfa3063d99f77f4c4f125dbdbb781f57.jpg"  />
