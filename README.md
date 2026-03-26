@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h2 align="center">Saksham.Agarwal.@AstralLink_</h2>
+<p align="center">Saksham.Agarwal.@AstralLink_</p>
 
 ###
 
